@@ -1,2 +1,2 @@
-# zc-pot-api
-IBM z/OS Connect PoT - Student API
+# cscvinc
+IBM z/OS Connect PoT - APIs to access the CICS FILEA application
